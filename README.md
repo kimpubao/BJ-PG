@@ -45,7 +45,7 @@
 - 🔹 DP (Dynamic Programming)  
   bj10815, bj10816, bj2578
 - 🔹 문자열 처리 (String)  
-  pg_citations, pg_phonenums, pg_solution
+  pg_citations, pg_phonenums, pg_solution, bj9012
 
 ---
 
