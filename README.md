@@ -41,7 +41,7 @@
 - 🔹 스택 / 큐 / 구현 (Implementation)  
   pg_progresses, pg_priorities, pg_edges, pg_wires
 - 🔹 그래프 / DFS / BFS  
-  pg_dungeons, pg_edges, pg_player, pg_numbers_1, pg_numbers_2, pg_gridege_truck
+  pg_dungeons, pg_edges, pg_player, pg_numbers_1, pg_numbers_2, pg_gridege_truck, bj16236
 - 🔹 DP (Dynamic Programming)  
   bj10815, bj10816, bj2578
 - 🔹 문자열 처리 (String)  
