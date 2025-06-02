@@ -29,33 +29,42 @@
 ## 🧩 다룬 알고리즘 주제
 
 - 🔹 정렬 (Sort)
+  
 bj1026.ipynb / bj11651.ipynb / pg_clothes.ipynb
  / pg_prices.ipynb
 
 - 🔹 해시 / 딕셔너리 (Hash)
+
 bj7785.ipynb / pg_phonenums.ipynb / pg_clothes.ipynb / pg_gift.ipynb
  / pg_plays.ipynb
 
 - 🔹 완전탐색 / 브루트포스 (Brute-force)
+
 bj2309.ipynb / pg_brown_yellow.ipynb / pg_player.ipynb / pg_operations.ipynb
 
 - 🔹 그리디 (Greedy)
+
 bj1931.ipynb / bj14501.ipynb / pg_jobs.ipynb / pg_scoville.ipynb
 
 - 🔹 우선순위 큐 / 힙 (Heap)
+
 pg_scoville.ipynb
 
 - 🔹 스택 / 큐 / 구현 (Implementation)
+
 pg_progresses.ipynb / pg_priorities.ipynb / pg_edges.ipynb / pg_wires.ipynb
 
 - 🔹 그래프 / DFS / BFS
+
 pg_dungeons.ipynb / pg_edges.ipynb / pg_player.ipynb / pg_numbers_1.ipynb
  / pg_numbers_2.ipynb / pg_gridege_truck.ipynb / bj16236.ipynb
 
 - 🔹 DP (Dynamic Programming)
+
 bj10815.ipynb / bj10816.ipynb / bj2578.ipynb
 
 - 🔹 문자열 처리 (String)
+
 pg_citations.ipynb /pg_phonenums.ipynb / pg_solution.ipynb / bj9012.ipynb
 
 ---
